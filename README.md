@@ -6,5 +6,6 @@
 About me 🧐 <br>
 🔭 I’m currently study in Vilnius University. <br>
 📫 How to reach me: bayardorj0430@gmail.com .<br>
-⚡ Fun fact: i like to play mobile games
+⚡ Fun fact: i like to play mobile games. <br>
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
