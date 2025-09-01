@@ -5,7 +5,7 @@
 --!>
 
 
-- 🔭 I’m currently study in Vilnius University
-- 📫 How to reach me: bayardorj0430@gmail.com
+- 🔭 I’m currently study in Vilnius University.
+- 📫 How to reach me: bayardorj0430@gmail.com .
 - ⚡ Fun fact: i like to play mobile games
 
