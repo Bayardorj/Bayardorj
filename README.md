@@ -1,4 +1,4 @@
-## Hi there 👋
+# I'm Bayardorj 👋
 
 <!--
 **Bayardorj/Bayardorj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,9 @@
 ## Most used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bayardorj&layout=compact)
 
-## Contact
+## Stats
+![Bayardorj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayardorj&show_icons=true&theme=gruvbox)
+
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
