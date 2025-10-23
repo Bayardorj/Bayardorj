@@ -8,11 +8,11 @@
 - 📫 How to reach me: bayardorj0430@gmail.com 
 - ⚡ Fun fact: i like to play mobile games 🎮  
 
-## My skills
+## Languages
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,cpp,html,css,mysql,postgres,php&theme=light)](https://skillicons.dev)
 
 ## Familiar Technologies
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,anaconda,vscode,aws,docker,idea,linux,postman,powershell&theme=light)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=ubuntu,anaconda,vscode,aws,docker,idea,linux,postman,powershell&theme=light)](https://skillicons.dev)
 
 
 ## Most used Languages
