@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,cpp,html,css,mysql,postgres,php&theme=light)](https://skillicons.dev)
 
 ## Familiar Technologies
-[![Technologies](https://skillicons.dev/icons?i=ubuntu,anaconda,vscode,aws,docker,idea,linux,postman,powershell&theme=light)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=ubuntu,anaconda,vscode,visualstudio,aws,docker,idea,linux,postman,powershell,arduino&theme=light)](https://skillicons.dev)
 
 
 ## Most used Languages
