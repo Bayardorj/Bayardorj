@@ -11,7 +11,7 @@
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,cpp,html,css,mysql,postgres,php&theme=light)](https://skillicons.dev)
 
-## Familiar Technologies
+## Familiar Tools
 [![Technologies](https://skillicons.dev/icons?i=ubuntu,anaconda,vscode,visualstudio,aws,docker,idea,linux,postman,powershell,arduino&theme=light)](https://skillicons.dev)
 
 
