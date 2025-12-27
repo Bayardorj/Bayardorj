@@ -6,7 +6,7 @@
 ## About me 🧐 
 - 🔭 I'm Software Engineering student at Vilnius University 👨‍🎓
 - 📫 How to reach me: bayardorj0430@gmail.com 
-- ⚡ Fun fact: I like playing mobile games 🎮 and watching anime 🎆
+- ⚡ Fun fact: I like playing mobile game 🎮 and watching anime 🎆
   
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,cpp,html,css,mysql,postgres,php&theme=light)](https://skillicons.dev)
